@@ -2,9 +2,9 @@
 
 To add stickers:
 - Commit the following changes:
-  - Add your PNG sticker file (one side has to be 512px, other side should be 512px or less)
+  - Add your PNG sticker file (**one side has to be 512px, other side should be 512px or less**)
   - Name your sticker with the format `<Name><Number>.png`
-  - Edit the `emoji-guide.txt` file and add one line with the format: `<sticker-file-name>: <emoji-code>`
+  - Edit the `emoji-guide.txt` file and add one line with the format: `<sticker-file-name>: <emoji-code>` (**make sure you sort them alphabetically**)
   - Refer to http://www.emoji-cheat-sheet.com/ for emoji code
   - You can add more than one emoji code
 - Notify @araishikeiwai for changes so he can add the newly added sticker to the pack

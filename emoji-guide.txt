@@ -8,6 +8,7 @@ Maste1: confused
 Maste2: point_up_2
 Maste3: eyes
 Mufid1: smile
+Nono1: man_with_gua_pi_mao
 Ricky1: confused
 Sb1: pray
 Ssuu1: dancer

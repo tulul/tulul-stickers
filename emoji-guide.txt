@@ -5,7 +5,7 @@ Apid1: confused
 Dyta1: smile
 Kemal1: laughing
 Kholid1: sunglasses
-Leli1: relaxed
+Leli1: relaxed, blush
 Maste1: confused
 Maste2: point_up_2
 Maste3: eyes

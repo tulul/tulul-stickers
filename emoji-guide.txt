@@ -2,15 +2,22 @@ Aa1: wink
 Adrian1: kissing
 Andika1: stuck_out_tongue
 Apid1: confused
+Dyta1: smile
 Kemal1: laughing
 Kholid1: sunglasses
+Leli1: relaxed
 Maste1: confused
 Maste2: point_up_2
 Maste3: eyes
+Maste4: poop
+Maste5: smirk
 Mufid1: smile
+Mufid2: smile
 Nono1: man_with_gua_pi_mao
+Rama1: laughing
 Ricky1: confused
 Ricky2: smirk, umbrella
 Sb1: pray
 Ssuu1: dancer
+Umar1: couple_with_heart
 Wakvi1: smirk

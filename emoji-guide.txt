@@ -5,7 +5,7 @@ Apid1: confused
 Ashar1: neutral_face
 Ashar2: kissing
 Dyta1: smile
-Haydan1: satisfied
+Haydan1: laughing
 Jarwo1: frowning
 Kemal1: laughing
 Kholid1: sunglasses
@@ -22,7 +22,7 @@ Nono1: man_with_gua_pi_mao
 Rama1: laughing
 Ricky1: confused
 Ricky2: smirk, umbrella
-Roland1: satisfied
+Roland1: laughing
 Sb1: pray
 Ssuu1: dancer
 Suhu1: grin

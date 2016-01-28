@@ -2,7 +2,11 @@ Aa1: wink
 Adrian1: kissing
 Andika1: stuck_out_tongue
 Apid1: confused
+Ashar1: neutral_face
+Ashar2: kissing
 Dyta1: smile
+Haydan1: satisfied
+Jarwo1: frowning
 Kemal1: laughing
 Kholid1: sunglasses
 Leli1: relaxed, blush
@@ -13,11 +17,17 @@ Maste4: hankey
 Maste5: smirk
 Mufid1: smile
 Mufid2: smile
+Ninis1: sunglasses
 Nono1: man_with_gua_pi_mao
 Rama1: laughing
 Ricky1: confused
 Ricky2: smirk, umbrella
+Roland1: satisfied
 Sb1: pray
 Ssuu1: dancer
+Suhu1: grin
+Teta1: princess
+Teta2: princess
 Umar1: couple_with_heart
 Wakvi1: smirk
+Wakvi2: mortar_board

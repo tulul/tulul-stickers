@@ -55,5 +55,5 @@ Teta5: scream
 Teta6: neutral_face
 Umar1: couple_with_heart
 Wakvi1: smirk
-Wakvi2: mortar_boardthumbsup
+Wakvi2: mortar_board
 Wilhan1: sunglasses
